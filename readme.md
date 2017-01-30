@@ -80,6 +80,9 @@ Below is an example configuration file:
 
 		Limit the amount of concurrent processes
 		"maxConnections": 20
+
+		Number of milliseconds to wait after a page loads before taking the screenshot.
+		"renderDelay": 0
 	}
 
 ###API
